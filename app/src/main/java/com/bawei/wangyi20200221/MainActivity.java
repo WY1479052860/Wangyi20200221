@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 /**
- * 这是第一次的注释
+ * 提交到远程仓库
  */
 public class MainActivity extends AppCompatActivity {
 
